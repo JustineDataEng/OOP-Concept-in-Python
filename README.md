@@ -45,7 +45,7 @@ engineering_dept.add_employee(manager1)
 # Display department staff
 engineering_dept.display_employees()
 
-
+```
 ## Features
 
 Role-Specific Data: Tracks unique information for different job types
@@ -54,3 +54,4 @@ Dynamic Calculations: Automatically calculates bonuses based on employee roles
 
 
 This project was developed to practice and showcase fundamental skills in Object-Oriented Programming and Python application design, demonstrating encapsulation, inheritance, polymorphism, and abstraction in a practical scenario.
+
